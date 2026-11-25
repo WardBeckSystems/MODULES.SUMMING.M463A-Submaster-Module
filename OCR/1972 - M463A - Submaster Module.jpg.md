@@ -1,5 +1,5 @@
 # 1972 - M463A - Submaster Module.jpg
-Wiki page: [M463A](../../../PAGES/M463A.md)
+Wiki page: [M463A](../../../../PAGES/M463A.md)
 
 
 - **Year:** 1972 (module estimate (family))
@@ -49,7 +49,7 @@ Akanced Aulio Vinlsje Aulio Srecioksks *** HAPPY Biddinc***
 
 ```json
 {
- "file": "Modules/SUMMING/M463A/1972 - M463A - Submaster Module.jpg",
+ "file": "Modules/SUMMING/M463A/PHOTOS/1972 - M463A - Submaster Module.jpg",
  "sha256": "d185b6a9077d2790ea9a7491e839da11d22d433abd6c5290fee2a0fae4a6e622",
  "kind": "module",
  "models": [

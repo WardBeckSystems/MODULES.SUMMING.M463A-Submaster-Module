@@ -1,5 +1,5 @@
 # 1972 - M463A - wbsps - module - m463a submaster module 002_small.jpg
-Wiki page: [M463A](../../../PAGES/M463A.md)
+Wiki page: [M463A](../../../../PAGES/M463A.md)
 
 
 - **Year:** 1972 (module estimate (family))
@@ -14,7 +14,7 @@ Wiki page: [M463A](../../../PAGES/M463A.md)
 
 ```json
 {
- "file": "Modules/SUMMING/M463A/1972 - M463A - wbsps - module - m463a submaster module 002_small.jpg",
+ "file": "Modules/SUMMING/M463A/PHOTOS/1972 - M463A - wbsps - module - m463a submaster module 002_small.jpg",
  "sha256": "5a3bb34a3f3d752c49dbf3bda70899302b4f709d258c17ed01f08f7a58d63161",
  "kind": "module",
  "models": [
