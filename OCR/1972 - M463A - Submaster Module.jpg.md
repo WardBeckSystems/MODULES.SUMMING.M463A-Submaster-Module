@@ -1,5 +1,5 @@
 # 1972 - M463A - Submaster Module.jpg
-Wiki page: [M463A](../../../../PAGES/M463A.md)
+Wiki page: [M463A](../)
 
 
 - **Year:** 1972 (module estimate (family))

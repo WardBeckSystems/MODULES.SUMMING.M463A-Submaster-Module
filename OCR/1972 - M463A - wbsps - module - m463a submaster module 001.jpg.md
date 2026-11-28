@@ -1,5 +1,5 @@
 # 1972 - M463A - wbsps - module - m463a submaster module 001.jpg
-Wiki page: [M463A](../../../../PAGES/M463A.md)
+Wiki page: [M463A](../)
 
 
 - **Year:** 1972 (module estimate (family))
